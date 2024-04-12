@@ -16,7 +16,7 @@ namespace ConsoleApp1
             var pesoIdealHomem = (72.7 * altura) - 58;
             var pesoIdealMulher = (62.1 * altura) - 44.7;
 
-            Console.WriteLine("\nQual é o seu sexo? (Digite 'M' para masculino ou 'F' para feminino)\n");
+            Console.WriteLine("\nQual é o seu sexo? (Digite 'M' para masculino ou 'F' para feminino)");
             char sexo = char.ToUpper(Console.ReadKey().KeyChar);
 
             if (sexo == 'M')
