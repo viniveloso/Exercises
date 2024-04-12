@@ -31,8 +31,21 @@ public class Program
         //Exercicio09 exercicio09 = new Exercicio09();
         //exercicio09.Celsius();
 
-        Exercicio10 exercicio10 = new Exercicio10();
-        exercicio10.Fahrenheit();
+        //Exercicio10 exercicio10 = new Exercicio10();
+        //exercicio10.Fahrenheit();
+
+        //Exercicio11 exercicio11 = new Exercicio11();
+        //exercicio11.InteirosEReais();
+
+        //Exercicio12 exercicio12 = new Exercicio12();
+        //exercicio12.PesoIdeal();
+
+        //Exercicio13 exercicio13 = new Exercicio13();
+        //exercicio13.IMC();
+
+        Exercicio14 exercicio14 = new Exercicio14();
+        exercicio14.Peixe();
+
     }
 
 }
