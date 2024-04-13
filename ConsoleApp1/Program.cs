@@ -43,9 +43,17 @@ public class Program
         //Exercicio13 exercicio13 = new Exercicio13();
         //exercicio13.IMC();
 
-        Exercicio14 exercicio14 = new Exercicio14();
-        exercicio14.Peixe();
+        //Exercicio14 exercicio14 = new Exercicio14();
+        //exercicio14.Peixe();
 
+        //Exercicio15 exercicio15 = new Exercicio15();
+        //exercicio15.Salario();
+
+        //Exercicio16 exercicio16 = new Exercicio16();
+        //exercicio16.Tintas();
+
+        Exercicio17 exercicio17 = new Exercicio17();
+        exercicio17.Tintas();
     }
 
 }
