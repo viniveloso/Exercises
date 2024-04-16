@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace ConsoleApp1.ExerciciosSequencial
 {
     public class Exercicio14
     {
@@ -21,7 +21,7 @@ namespace ConsoleApp1
             {
                 excesso = peso - 50;
                 multa = excesso * taxa;
-                Console.WriteLine("O valor da multa é: "+multa);
+                Console.WriteLine("O valor da multa é: " + multa);
             }
             else
             {

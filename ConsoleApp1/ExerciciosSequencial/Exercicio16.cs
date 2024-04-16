@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace ConsoleApp1.ExerciciosSequencial
 {
     public class Exercicio16
     {
@@ -21,7 +21,7 @@ namespace ConsoleApp1
             var total = ValorTinta * totalLatas;
 
             Console.WriteLine("O valor é: " + total);
-            Console.WriteLine("A quantidade de tinta é: "+ totalLatas);
+            Console.WriteLine("A quantidade de tinta é: " + totalLatas);
         }
     }
 }

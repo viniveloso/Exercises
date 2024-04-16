@@ -1,4 +1,5 @@
-﻿using ConsoleApp1;
+﻿using ConsoleApp1.ExerciciosSequencial;
+using ConsoleApp1.ExerciciosDecisao;
 
 public class Program
 {
@@ -52,8 +53,32 @@ public class Program
         //Exercicio16 exercicio16 = new Exercicio16();
         //exercicio16.Tintas();
 
-        Exercicio17 exercicio17 = new Exercicio17();
-        exercicio17.Tintas();
+        //Exercicio17 exercicio17 = new Exercicio17();
+        //exercicio17.Tintas();
+
+        //Exercicio18 exercicio18 = new Exercicio18();
+        //exercicio18.Download();
+
+        //
+
+        //ConsoleApp1.ExerciciosDecisao.Exercicio01 exercicio01 = new ConsoleApp1.ExerciciosDecisao.Exercicio01();
+        //exercicio01.NumeroMaior();
+
+        //ConsoleApp1.ExerciciosDecisao.Exercicio02 exercicio02 = new ConsoleApp1.ExerciciosDecisao.Exercicio02();
+        //exercicio02.PositivoOuNegativo();
+
+        //ConsoleApp1.ExerciciosDecisao.Exercicio03 exercicio03 = new ConsoleApp1.ExerciciosDecisao.Exercicio03();
+        //exercicio03.FouM();
+
+        //ConsoleApp1.ExerciciosDecisao.Exercicio04 exercicio04 = new ConsoleApp1.ExerciciosDecisao.Exercicio04();
+        //exercicio04.VogalOuConsoante();
+
+        //ConsoleApp1.ExerciciosDecisao.Exercicio05 exercicio05 = new ConsoleApp1.ExerciciosDecisao.Exercicio05();
+        //exercicio05.MediaAluno();
+
+        ConsoleApp1.ExerciciosDecisao.Exercicio06 exercicio06 = new ConsoleApp1.ExerciciosDecisao.Exercicio06();
+        exercicio06.TresNumeros();
+
     }
 
 }

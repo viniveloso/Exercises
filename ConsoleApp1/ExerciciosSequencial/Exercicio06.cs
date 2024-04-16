@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace ConsoleApp1.ExerciciosSequencial
 {
     public class Exercicio06
-    {   
+    {
         public void AreaCirculo()
         {
             Console.WriteLine("Digite o raio: ");
@@ -15,7 +15,7 @@ namespace ConsoleApp1
 
             var area = 3.14 * (raio * raio);
 
-            Console.WriteLine("A área é: "+area);
+            Console.WriteLine("A área é: " + area);
         }
     }
 }

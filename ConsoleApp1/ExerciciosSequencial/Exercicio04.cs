@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace ConsoleApp1.ExerciciosSequencial
 {
     public class Exercicio04
     {
@@ -22,7 +22,7 @@ namespace ConsoleApp1
 
             var media = (nota1 + nota2 + nota3 + nota4) / 4;
 
-            Console.WriteLine("Sua média é: "+media);
+            Console.WriteLine("Sua média é: " + media);
         }
     }
 }

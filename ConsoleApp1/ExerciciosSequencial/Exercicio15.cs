@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace ConsoleApp1.ExerciciosSequencial
 {
     public class Exercicio15
     {
@@ -21,15 +21,15 @@ namespace ConsoleApp1
             double inss = salarioBruto * 0.14;
             double sindicato = salarioBruto * 0.5;
             double liquido = salarioBruto - inss - sindicato;
-            
+
 
             Console.WriteLine("O seu salario bruto é: " + salarioBruto);
             Console.WriteLine("");
             Console.WriteLine("Pagou ao INSS: " + inss);
             Console.WriteLine("");
-            Console.WriteLine("Pagou ao sindicato: "+sindicato);
+            Console.WriteLine("Pagou ao sindicato: " + sindicato);
             Console.WriteLine("");
-            Console.WriteLine("Salario liquido: "+liquido);
+            Console.WriteLine("Salario liquido: " + liquido);
 
 
         }

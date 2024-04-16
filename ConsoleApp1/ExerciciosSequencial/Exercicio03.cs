@@ -5,10 +5,10 @@ using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace ConsoleApp1.ExerciciosSequencial
 {
     public class Exercicio03
-    {   
+    {
         public void Soma()
         {
             Console.WriteLine("Digite o primeiro número: ");
@@ -17,9 +17,9 @@ namespace ConsoleApp1
             Console.WriteLine("Digite o segundo número: ");
             var numero2 = Convert.ToInt32(Console.ReadLine());
 
-            var soma = (numero1 + numero2);
+            var soma = numero1 + numero2;
 
-            Console.WriteLine("A soma dos dois números é: "+soma);
+            Console.WriteLine("A soma dos dois números é: " + soma);
         }
     }
 }

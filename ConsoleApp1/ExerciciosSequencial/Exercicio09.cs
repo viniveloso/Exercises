@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace ConsoleApp1.ExerciciosSequencial
 {
     public class Exercicio09
     {
@@ -15,7 +15,7 @@ namespace ConsoleApp1
 
             var c = 5 * ((f - 32) / 9);
 
-            Console.WriteLine("A temperatura em Celsius é: "+c);
+            Console.WriteLine("A temperatura em Celsius é: " + c);
         }
     }
 }

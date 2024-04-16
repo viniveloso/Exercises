@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace ConsoleApp1.ExerciciosSequencial
 {
     public class Exercicio08
     {
@@ -16,9 +16,9 @@ namespace ConsoleApp1
             Console.WriteLine("Digite quantas horas você trabalhou esse mês: ");
             double horasTrabalhadas = Convert.ToDouble(Console.ReadLine());
 
-            var salarioTotal = (salarioHora * horasTrabalhadas);
+            var salarioTotal = salarioHora * horasTrabalhadas;
 
-            Console.WriteLine("O seu salario desse mês: "+salarioTotal.ToString("C"));
+            Console.WriteLine("O seu salario desse mês: " + salarioTotal.ToString("C"));
         }
     }
 }

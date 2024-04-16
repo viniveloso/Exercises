@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace ConsoleApp1.ExerciciosSequencial
 {
     public class Exercicio02
     {
@@ -13,7 +13,7 @@ namespace ConsoleApp1
             Console.WriteLine("Digite um numero: ");
             var numero = Console.ReadLine();
 
-            Console.WriteLine("O número informado foi: "+ numero);
+            Console.WriteLine("O número informado foi: " + numero);
         }
     }
 }
