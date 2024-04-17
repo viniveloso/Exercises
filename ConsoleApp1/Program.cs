@@ -76,8 +76,23 @@ public class Program
         //ConsoleApp1.ExerciciosDecisao.Exercicio05 exercicio05 = new ConsoleApp1.ExerciciosDecisao.Exercicio05();
         //exercicio05.MediaAluno();
 
-        ConsoleApp1.ExerciciosDecisao.Exercicio06 exercicio06 = new ConsoleApp1.ExerciciosDecisao.Exercicio06();
-        exercicio06.TresNumeros();
+        //ConsoleApp1.ExerciciosDecisao.Exercicio06 exercicio06 = new ConsoleApp1.ExerciciosDecisao.Exercicio06();
+        //exercicio06.TresNumeros();
+
+        //ConsoleApp1.ExerciciosDecisao.Exercicio07 exercicio07 = new ConsoleApp1.ExerciciosDecisao.Exercicio07();
+        //exercicio07.MaiorEMenor();
+
+        //ConsoleApp1.ExerciciosDecisao.Exercicio08 exercicio08 = new ConsoleApp1.ExerciciosDecisao.Exercicio08();
+        //exercicio08.ProdutoBarato();
+
+        //ConsoleApp1.ExerciciosDecisao.Exercicio09 exercicio09 = new ConsoleApp1.ExerciciosDecisao.Exercicio09();
+        //exercicio09.Decrescente();
+
+        //ConsoleApp1.ExerciciosDecisao.Exercicio10 exercicio10 = new ConsoleApp1.ExerciciosDecisao.Exercicio10();
+        //exercicio10.Turno();
+
+        ConsoleApp1.ExerciciosDecisao.Exercicio11 exercicio11 = new ConsoleApp1.ExerciciosDecisao.Exercicio11();
+        exercicio11.AumentoSalarial();
 
     }
 
