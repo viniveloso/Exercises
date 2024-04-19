@@ -91,9 +91,17 @@ public class Program
         //ConsoleApp1.ExerciciosDecisao.Exercicio10 exercicio10 = new ConsoleApp1.ExerciciosDecisao.Exercicio10();
         //exercicio10.Turno();
 
-        ConsoleApp1.ExerciciosDecisao.Exercicio11 exercicio11 = new ConsoleApp1.ExerciciosDecisao.Exercicio11();
-        exercicio11.AumentoSalarial();
+        //ConsoleApp1.ExerciciosDecisao.Exercicio11 exercicio11 = new ConsoleApp1.ExerciciosDecisao.Exercicio11();
+        //exercicio11.AumentoSalarial();
 
+        //ConsoleApp1.ExerciciosDecisao.Exercicio12 exercicio12 = new ConsoleApp1.ExerciciosDecisao.Exercicio12();
+        //exercicio12.FolhaDePagamento();
+
+        //ConsoleApp1.ExerciciosDecisao.Exercicio13 exercicio13 = new ConsoleApp1.ExerciciosDecisao.Exercicio13();
+        //exercicio13.Semana();
+
+        ConsoleApp1.ExerciciosDecisao.Exercicio14 exercicio14 = new ConsoleApp1.ExerciciosDecisao.Exercicio14();
+        exercicio14.MediaSemestre();
     }
 
 }
