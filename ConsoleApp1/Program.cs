@@ -100,8 +100,8 @@ public class Program
         //ConsoleApp1.ExerciciosDecisao.Exercicio13 exercicio13 = new ConsoleApp1.ExerciciosDecisao.Exercicio13();
         //exercicio13.Semana();
 
-        ConsoleApp1.ExerciciosDecisao.Exercicio14 exercicio14 = new ConsoleApp1.ExerciciosDecisao.Exercicio14();
-        exercicio14.MediaSemestre();
+        //ConsoleApp1.ExerciciosDecisao.Exercicio14 exercicio14 = new ConsoleApp1.ExerciciosDecisao.Exercicio14();
+        //exercicio14.MediaSemestre();
     }
 
 }
