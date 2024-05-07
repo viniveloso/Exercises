@@ -102,6 +102,18 @@ public class Program
 
         //ConsoleApp1.ExerciciosDecisao.Exercicio14 exercicio14 = new ConsoleApp1.ExerciciosDecisao.Exercicio14();
         //exercicio14.MediaSemestre();
+
+        //ConsoleApp1.ExerciciosDecisao.Exercicio15 exercicio15 = new ConsoleApp1.ExerciciosDecisao.Exercicio15();
+        //exercicio15.Triangulo();
+
+        //ConsoleApp1.ExerciciosDecisao.Exercicio16 exercicio16 = new ConsoleApp1.ExerciciosDecisao.Exercicio16();
+        //exercicio16.RaizSegundoGrau();
+
+        //ConsoleApp1.ExerciciosDecisao.Exercicio17 exercicio17 = new ConsoleApp1.ExerciciosDecisao.Exercicio17();
+        //exercicio17.Bissexto();
+
+        ConsoleApp1.ExerciciosDecisao.Exercicio18 exercicio18 = new ConsoleApp1.ExerciciosDecisao.Exercicio18();
+        exercicio18.Data();
     }
 
 }
