@@ -112,8 +112,8 @@ public class Program
         //ConsoleApp1.ExerciciosDecisao.Exercicio17 exercicio17 = new ConsoleApp1.ExerciciosDecisao.Exercicio17();
         //exercicio17.Bissexto();
 
-        ConsoleApp1.ExerciciosDecisao.Exercicio18 exercicio18 = new ConsoleApp1.ExerciciosDecisao.Exercicio18();
-        exercicio18.Data();
+        //ConsoleApp1.ExerciciosDecisao.Exercicio18 exercicio18 = new ConsoleApp1.ExerciciosDecisao.Exercicio18();
+        //exercicio18.Data();
     }
 
 }
