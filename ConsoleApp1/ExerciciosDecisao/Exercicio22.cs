@@ -13,14 +13,9 @@ namespace ConsoleApp1.ExerciciosDecisao
             Console.WriteLine("Digite um numero inteiro para descobrir se é par ou impar: ");
             var numero = Convert.ToInt32(Console.ReadLine());
 
-            var a = numero % 2;
-
-            if (a == 1)
-            {
+            if(numero % 2 == 0){
                 Console.WriteLine("O numero é impar");
-            }
-            if (a == 0)
-            {
+            } else {
                 Console.WriteLine("O numero é par");
             }
         }
